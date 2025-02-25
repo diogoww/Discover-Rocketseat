@@ -28,3 +28,17 @@ body * {
     line-height: 24px;
     margin-top: 8px;
 }
+
+/*links - lista*/
+ul {
+    list-style: none;
+}
+
+ul li a {
+    border: 1px solid red ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 24px;
+}
+
